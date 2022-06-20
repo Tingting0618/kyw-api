@@ -1,18 +1,24 @@
 {
-    "wages": [
-        {
-            "id": 1,
-            "title": "Data Engineer",
-            "company": "Google",
-            "salary": 150000,
-            "work_state": "TN"
-        },
-        {
-            "id": 2,
-            "title": "Software Engineer",
-            "company": "Amazon",
-            "salary": 120000,
-            "work_state": "MA"
-        }
-    ]
+  "wages": [
+    {
+      "id": 1,
+      "title": "Data Engineer",
+      "company": "Google",
+      "salary": 150000,
+      "city":"Nashville",
+      "work_state": "TN",
+      "year":2018,
+      "Source":"U.S. DEPARTMENT OF LABOR"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Amazon",
+      "salary": 120000,
+      "city":"Boston",
+      "work_state": "MA",
+      "year":2022,
+      "Source":"U.S. DEPARTMENT OF LABOR"
+    }
+  ]
 }
